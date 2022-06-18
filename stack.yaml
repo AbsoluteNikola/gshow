@@ -1,0 +1,4 @@
+resolver: lts-19.11
+
+packages:
+- .

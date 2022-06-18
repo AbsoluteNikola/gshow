@@ -1,0 +1,10 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "gshow:lib"
+
+    - path: "./exe/Main.hs"
+      component: "gshow:exe:gshow"
+
+    - path: "./test"
+      component: "gshow:test:gshow-test"
